@@ -1,0 +1,19 @@
+{
+  "cwd": "D:\\f7\\eas",
+  "type": [
+    "web"
+  ],
+  "name": "My App",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": false,
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
