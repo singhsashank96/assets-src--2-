@@ -1,5 +1,52 @@
 /* Your app custom styles here */
-.bcg{
-    height: 100%;
-    background-image: url('https://coderkube.com/wp-content/uploads/2017/10/android-app-development-banner.png');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+.containerp{
+ 
+    text-align: center;
+    justify-content: center ;
+    
+
+    height: 70vh;
+
+
+  background-repeat: no-repeat;
+ 
+}
+
+.cont{
+    text-align: center;
+    font-weight:bold ;
+    font-size: x-large;
+    color: rgb(72, 65, 65);
+}
+.prvbtn{
+    
+    width: auto;
+    border: 1px rgb(61, 61, 217);
+    border-radius: 70%;
+    background-color:rgb(80, 80, 199);
+    color: white;
+}
+
+.nextbtn{
+  margin-left: 64rem;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot1{
+    height: 15px;
+    width: 32px;
+    background-color: #604dc0;
+    border-radius: 40%;
+    display: inline-block;
+  }
